@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnruiz24
 - 👀 I’m interested in Deep Learning, Evolutionary Computing and NLP
-- 🌱 I’m currently getting specialized into DL
+- 🌱 I’m currently getting specialized into DL and writing a dissertation on the using of DL for medical applications
 - 💞️ I’m looking to collaborate on any topic regarding the deep learning area
 - 📫 How to reach me johnvillalobos_24@hotmail.com
 
